@@ -15,8 +15,8 @@ website Official
   <meta property="og:description"        content="Dipqi Ghozali's Landing Page." />
   <meta property="og:image"              content="dipqighozali.jpg" />
     <meta property="twitter:account_id" content="622422253" />
-    <meta name="twitter:site" content="@dipqi">
-    <meta property="og:site_name" content="Dipqi Ghozali">
+    <meta name="twitter:site" content="@dzsrg">
+    <meta property="og:site_name" content="DZAKY SARAGIH">
   <meta name="viewport" content="width=device-width, initial-scale=0.85" />
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <link rel="stylesheet" href="begaye.css">
