@@ -4,7 +4,7 @@ website Official
 <head>
 <meta name="color-scheme" content="dark light">
   <meta charset="utf-8" />
-    <meta name="author" content="Dipqi Ghozali">
+    <meta name="author" content="DZAKY SARAGIH">
     <meta name="google-site-verification" content="_UB1LoOZXKB9eKCw9FvN8DCnfrFPqLx2e-oEVl-RJFw" />
     <meta name="google-site-verification" content="WvVBQsQoW-JTos5C6j-vEGs9Tb-eexOA2iv3DTHFRvc" />
     <link rel="icon" type="image/png" href="/assets/icon.png">
